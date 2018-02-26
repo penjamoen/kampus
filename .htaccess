@@ -1,0 +1,2 @@
+ErrorDocument 403 /forbid.html
+Options All -Indexes
